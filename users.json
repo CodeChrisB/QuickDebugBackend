@@ -6,22 +6,6 @@
     "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/P_international_vehicle_registration_oval.svg/300px-P_international_vehicle_registration_oval.svg.png",
     "status": "Online",
     "bio": "NVS - Angular Prof."
-  },
-  {
-    "id": 1,
-    "username": "b.gerald",
-    "name": "Gerald Buchberger",
-    "cover": "https://media-exp1.licdn.com/dms/image/C4D03AQEjou4EdkVPCw/profile-displayphoto-shrink_200_200/0/1562922706438?e=1616025600&v=beta&t=oPnx7pcoMF1mWLCzX507qe45d8rRiRz4ui3uff8lYPE",
-    "status": "Busy",
-    "bio": "Hello, I am using Whatsapp!"
-  },
-  {
-    "id": 2,
-    "username": "f.auernig",
-    "name": "Franz Auernig",
-    "cover": "https://pbs.twimg.com/profile_images/1125398287220080640/6DdCdLES_400x400.png",
-    "status": "Busy",
-    "bio": "Hallo meine Herren!"
-  },
+  }
 
 ]
