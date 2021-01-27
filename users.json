@@ -1,82 +1,27 @@
 [
   {
     "id": 0,
-    "username": "Rockwall",
-    "name": "Emre ÖZBEK",
-    "cover": "http://www.emreozbek.net/covers/0.jpg",
+    "username": "p.lackinger",
+    "name": "Prof. Lackinger",
+    "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/P_international_vehicle_registration_oval.svg/300px-P_international_vehicle_registration_oval.svg.png",
     "status": "Online",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
+    "bio": "NVS - Angular Prof."
   },
   {
     "id": 1,
-    "username": "Rebellion",
-    "name": "Cristiano Ronaldo",
-    "cover": "http://www.emreozbek.net/covers/1.jpg",
+    "username": "b.gerald",
+    "name": "Gerald Buchberger",
+    "cover": "https://media-exp1.licdn.com/dms/image/C4D03AQEjou4EdkVPCw/profile-displayphoto-shrink_200_200/0/1562922706438?e=1616025600&v=beta&t=oPnx7pcoMF1mWLCzX507qe45d8rRiRz4ui3uff8lYPE",
     "status": "Busy",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
+    "bio": "Hello, I am using Whatsapp!"
   },
   {
     "id": 2,
-    "username": "asli.diner",
-    "name": "Aslı Diner",
-    "cover": "http://www.emreozbek.net/covers/2.jpg",
-    "status": "Online",
-    "bio": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as"
+    "username": "f.auernig",
+    "name": "Franz Auernig",
+    "cover": "data:image/png;base64,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",
+    "status": "Busy",
+    "bio": "Hallo meine Herren!"
   },
-  {
-    "id": 3,
-    "username": "kahraman-2001",
-    "name": "Hasan Kahraman",
-    "cover": "http://www.emreozbek.net/covers/3.jpg",
-    "status": "Online",
-    "bio": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200"
-  },
-  {
-    "id": 4,
-    "username": "developer11",
-    "name": "Mark Zuckerberg",
-    "cover": "http://www.emreozbek.net/covers/4.jpg",
-    "status": "Offline",
-    "bio": "The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
-  },
-  {
-    "id": 5,
-    "username": "designer1",
-    "name": "Cindy Violet",
-    "cover": "http://www.emreozbek.net/covers/5.jpg",
-    "status": "Offline",
-    "bio": ""
-  },
-  {
-    "id": 6,
-    "username": "mad.men",
-    "name": "Jon Hamm",
-    "cover": "http://www.emreozbek.net/covers/6.jpg",
-    "status": "Offline",
-    "bio": ""
-  },
-  {
-    "id": 7,
-    "username": "star.wars",
-    "name": "Luke Skywalker",
-    "cover": "http://www.emreozbek.net/covers/7.jpg",
-    "status": "Offline",
-    "bio": ""
-  },
-  {
-    "id": 8,
-    "username": "inception",
-    "name": "Cobb",
-    "cover": "http://www.emreozbek.net/covers/8.jpg",
-    "status": "Offline",
-    "bio": ""
-  },
-  {
-    "id": 9,
-    "username": "god.father",
-    "name": "Al Pacino",
-    "cover": "http://www.emreozbek.net/covers/9.jpg",
-    "status": "Offline",
-    "bio": ""
-  }
+
 ]
