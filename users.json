@@ -3,7 +3,7 @@
     "id": 0,
     "username": "lackinger01",
     "name": "Prof Lackinger",
-    "cover": "http://www.emreozbek.net/covers/0.jpg",
+    "cover": "https://randomuser.me/api/portraits/men/75.jpg",
     "status": "Online",
     "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. "
   },
@@ -11,72 +11,40 @@
     "id": 1,
     "username": "Rebellion",
     "name": "Cristiano Ronaldo",
-    "cover": "http://www.emreozbek.net/covers/1.jpg",
+    "cover": "https://randomuser.me/api/portraits/men/15.jpg",
     "status": "Busy",
     "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, "
   },
   {
     "id": 2,
-    "username": "asli.diner",
-    "name": "Aslı Diner",
-    "cover": "http://www.emreozbek.net/covers/2.jpg",
+    "username": "Prof Rumetshofer",
+    "name": "Rumetshofer",
+    "cover": "https://randomuser.me/api/portraits/female/25.jpg",
     "status": "Online",
-    "bio": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as"
+    "bio": "HTL Professorin"
   },
   {
     "id": 3,
-    "username": "kahraman-2001",
-    "name": "Hasan Kahraman",
-    "cover": "http://www.emreozbek.net/covers/3.jpg",
+    "username": "Codechrisb",
+    "name": "Christopher Buchberger",
+    "cover": "https://randomuser.me/api/portraits/men/35.jpg",
     "status": "Online",
-    "bio": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200"
+    "bio": "I hope Whatsapp wont sue me for using their colors in a ChatApp that looks very simillar to theirs."
   },
   {
     "id": 4,
-    "username": "developer11",
-    "name": "Mark Zuckerberg",
-    "cover": "http://www.emreozbek.net/covers/4.jpg",
+    "username": "fauernig",
+    "name": "Franz Auernig",
+    "cover": "https://randomuser.me/api/portraits/men/45.jpg",
     "status": "Offline",
-    "bio": "The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc."
+    "bio": "Tinfprüfungen am Vorbereiten #Binary #Exam #LOL"
   },
   {
     "id": 5,
-    "username": "designer1",
-    "name": "Cindy Violet",
-    "cover": "http://www.emreozbek.net/covers/5.jpg",
+    "username": "pBauer",
+    "name": "Peter Bauer",
+    "cover": "https://randomuser.me/api/portraits/men/55.jpg",
     "status": "Offline",
-    "bio": ""
+    "bio": "Lol"
   },
-  {
-    "id": 6,
-    "username": "mad.men",
-    "name": "Jon Hamm",
-    "cover": "http://www.emreozbek.net/covers/6.jpg",
-    "status": "Offline",
-    "bio": ""
-  },
-  {
-    "id": 7,
-    "username": "star.wars",
-    "name": "Luke Skywalker",
-    "cover": "http://www.emreozbek.net/covers/7.jpg",
-    "status": "Offline",
-    "bio": ""
-  },
-  {
-    "id": 8,
-    "username": "inception",
-    "name": "Cobb",
-    "cover": "http://www.emreozbek.net/covers/8.jpg",
-    "status": "Offline",
-    "bio": ""
-  },
-  {
-    "id": 9,
-    "username": "god.father",
-    "name": "Al Pacino",
-    "cover": "http://www.emreozbek.net/covers/9.jpg",
-    "status": "Offline",
-    "bio": ""
-  }
 ]
