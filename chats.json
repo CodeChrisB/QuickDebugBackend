@@ -4,7 +4,7 @@
     "targetUserId": 1,
     "username": "Lackinger",
     "cover": "https://robohash.org/velnondolores.jpg?size=50x50&set=set1",
-    "lastMessage": "Ja, das Frontend sieht ziemlich gut aus.",
+    "lastMessage": "Ich schaue es mir mal an.",
     "lastMessageLength": 1,
     "chat": [
       {
@@ -25,7 +25,7 @@
       {
         "id": "2",
         "cover": "https://robohash.org/velnondolores.jpg?size=50x50&set=set1",
-        "message": "Ja, das Frontend sieht ziemlich gut aus. Gut gemacht Herr Buchberger"
+        "message": "Ich schaue es mir mal an."
       }
     ]
   },
@@ -34,7 +34,7 @@
     "targetUserId": 4,
     "username": "Auernig",
     "cover": "https://robohash.org/velnondolores.jpg?size=50x50&set=set1",
-    "lastMessage": "Haben Sie das SYP Proposal schon abgegeben , Herr Buchberger?",
+    "lastMessage": "Placeholder Text um zu sehen was passiert wenn sehr viel gechattet wurde",
     "lastMessageLength": 2,
     "chat": [
       {
